@@ -18,6 +18,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Feel free to modify the description to fit your preferences and provide any additional information or instructions you find relevant.
-
-## Author
-Kiarash Rahmani
